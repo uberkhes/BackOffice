@@ -1,0 +1,15 @@
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\bin\Debug\net8.0\BackOffice.Infrastructure.deps.json
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\bin\Debug\net8.0\BackOffice.Infrastructure.dll
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\bin\Debug\net8.0\BackOffice.Infrastructure.pdb
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\bin\Debug\net8.0\BackOffice.Domain.dll
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\bin\Debug\net8.0\BackOffice.Domain.pdb
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\BackOffice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\BackOffice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\BackOffice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\BackOffice.Infrastructure.AssemblyInfo.cs
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\BackOffice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\BackOffi.839EED92.Up2Date
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\BackOffice.Infrastructure.dll
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\refint\BackOffice.Infrastructure.dll
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\BackOffice.Infrastructure.pdb
+C:\Users\black\source\repos\BackOffice\BackOffice.Infrastructure\obj\Debug\net8.0\ref\BackOffice.Infrastructure.dll
