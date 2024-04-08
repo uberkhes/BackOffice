@@ -13,3 +13,4 @@ C:\Users\black\source\repos\BackOffice\BackOffice.Application\obj\Debug\net8.0\B
 C:\Users\black\source\repos\BackOffice\BackOffice.Application\obj\Debug\net8.0\ref\BackOffice.Application.dll
 C:\Users\black\source\repos\BackOffice\BackOffice.Application\bin\Debug\net8.0\BackOffice.Domain.dll
 C:\Users\black\source\repos\BackOffice\BackOffice.Application\bin\Debug\net8.0\BackOffice.Domain.pdb
+C:\Users\black\source\repos\BackOffice\BackOffice.Application\obj\Debug\net8.0\BackOffice.Application.sourcelink.json

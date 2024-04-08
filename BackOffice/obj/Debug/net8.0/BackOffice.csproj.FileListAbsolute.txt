@@ -49,3 +49,4 @@ C:\Users\black\source\repos\BackOffice\BackOffice\bin\Debug\net8.0\BackOffice.Do
 C:\Users\black\source\repos\BackOffice\BackOffice\bin\Debug\net8.0\BackOffice.Domain.pdb
 C:\Users\black\source\repos\BackOffice\BackOffice\bin\Debug\net8.0\BackOffice.Infrastructure.dll
 C:\Users\black\source\repos\BackOffice\BackOffice\bin\Debug\net8.0\BackOffice.Infrastructure.pdb
+C:\Users\black\source\repos\BackOffice\BackOffice\obj\Debug\net8.0\BackOffice.sourcelink.json

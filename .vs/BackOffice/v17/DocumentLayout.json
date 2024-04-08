@@ -3,52 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\black\\source\\repos\\BackOffice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E3BFE0F-681F-434A-9309-E9574BBD9F38}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.infrastructure\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3BFE0F-681F-434A-9309-E9574BBD9F38}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|solutionrelative:backoffice.infrastructure\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.application\\users\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\users\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|solutionrelative:backoffice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.domain\\interfaces\\itestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|solutionrelative:backoffice.domain\\interfaces\\itestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.application\\test\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\test\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.application\\test\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\test\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice\\extensions\\appservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|solutionrelative:backoffice\\extensions\\appservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|solutionrelative:backoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.domain\\entities\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|solutionrelative:backoffice.domain\\entities\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.domain\\entities\\database\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|solutionrelative:backoffice.domain\\entities\\database\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice\\backoffice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|solutionrelative:backoffice\\backoffice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|solutionrelative:backoffice.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3BFE0F-681F-434A-9309-E9574BBD9F38}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.infrastructure\\backoffice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4E3BFE0F-681F-434A-9309-E9574BBD9F38}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|solutionrelative:backoffice.infrastructure\\backoffice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.application\\users\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\users\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.application\\backoffice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DC96D813-332C-4ADA-8057-68D2307454F2}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\backoffice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.domain\\interfaces\\users\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|solutionrelative:backoffice.domain\\interfaces\\users\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.domain\\entities\\database\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|solutionrelative:backoffice.domain\\entities\\database\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|solutionrelative:backoffice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.domain\\interfaces\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|solutionrelative:backoffice.domain\\interfaces\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3BFE0F-681F-434A-9309-E9574BBD9F38}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.infrastructure\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3BFE0F-681F-434A-9309-E9574BBD9F38}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|solutionrelative:backoffice.infrastructure\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice\\backoffice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|solutionrelative:backoffice\\backoffice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3BFE0F-681F-434A-9309-E9574BBD9F38}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.infrastructure\\backoffice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E3BFE0F-681F-434A-9309-E9574BBD9F38}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|solutionrelative:backoffice.infrastructure\\backoffice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice.domain\\interfaces\\users\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7EA66-378A-4343-94A8-3F1F7053BA82}|BackOffice.Domain\\BackOffice.Domain.csproj|solutionrelative:backoffice.domain\\interfaces\\users\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -61,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|c:\\users\\black\\source\\repos\\backoffice\\backoffice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{30CFA506-F66B-4336-92F2-C3804D7B6BBF}|BackOffice\\BackOffice.csproj|solutionrelative:backoffice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Core\\Entities\\Users\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackOffice.Core\\Entities\\Users\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Core\\BackOffice.Domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -90,103 +98,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Core\\Entities\\Users\\User.cs",
-              "RelativeDocumentMoniker": "BackOffice.Core\\Entities\\Users\\User.cs",
-              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Core\\Entities\\Users\\User.cs",
-              "RelativeToolTip": "BackOffice.Core\\Entities\\Users\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "ITestManager.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\ITestManager.cs",
+              "RelativeDocumentMoniker": "BackOffice.Domain\\Interfaces\\ITestManager.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\ITestManager.cs",
+              "RelativeToolTip": "BackOffice.Domain\\Interfaces\\ITestManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T14:32:04.924Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-04-07T22:27:21.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestManager.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Application\\Test\\TestManager.cs",
+              "RelativeDocumentMoniker": "BackOffice.Application\\Test\\TestManager.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Application\\Test\\TestManager.cs",
+              "RelativeToolTip": "BackOffice.Application\\Test\\TestManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:55:57.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppServicesExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\Extensions\\AppServicesExtensions.cs",
-              "RelativeDocumentMoniker": "BackOffice\\Extensions\\AppServicesExtensions.cs",
-              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\Extensions\\AppServicesExtensions.cs",
-              "RelativeToolTip": "BackOffice\\Extensions\\AppServicesExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Title": "Basemanager.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Application\\Test\\Basemanager.cs",
+              "RelativeDocumentMoniker": "BackOffice.Application\\Test\\Basemanager.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Application\\Test\\Basemanager.cs",
+              "RelativeToolTip": "BackOffice.Application\\Test\\Basemanager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:20:19.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Entities\\Users\\User.cs",
-              "RelativeDocumentMoniker": "BackOffice.Domain\\Entities\\Users\\User.cs",
-              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Entities\\Users\\User.cs",
-              "RelativeToolTip": "BackOffice.Domain\\Entities\\Users\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:22:53.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DatabaseSettings.cs",
-              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Entities\\Database\\DatabaseSettings.cs",
-              "RelativeDocumentMoniker": "BackOffice.Domain\\Entities\\Database\\DatabaseSettings.cs",
-              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Entities\\Database\\DatabaseSettings.cs",
-              "RelativeToolTip": "BackOffice.Domain\\Entities\\Database\\DatabaseSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:22:36.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BackOffice.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj",
-              "RelativeToolTip": "BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-30T22:18:23.62Z",
+              "WhenOpened": "2024-04-07T17:53:09.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BackOffice.csproj",
-              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\BackOffice.csproj",
-              "RelativeDocumentMoniker": "BackOffice\\BackOffice.csproj",
-              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\BackOffice.csproj",
-              "RelativeToolTip": "BackOffice\\BackOffice.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-30T22:14:03.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UsersService.cs",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Application\\Users\\UsersService.cs",
               "RelativeDocumentMoniker": "BackOffice.Application\\Users\\UsersService.cs",
               "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Application\\Users\\UsersService.cs",
               "RelativeToolTip": "BackOffice.Application\\Users\\UsersService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T22:14:31.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\Program.cs",
               "RelativeDocumentMoniker": "BackOffice\\Program.cs",
@@ -199,59 +167,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "BackOffice\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BackOffice\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "BackOffice\\Controllers\\UserController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T22:20:22.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Infrastructure\\Repositories\\Users\\UserRepository.cs",
               "RelativeDocumentMoniker": "BackOffice.Infrastructure\\Repositories\\Users\\UserRepository.cs",
               "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Infrastructure\\Repositories\\Users\\UserRepository.cs",
               "RelativeToolTip": "BackOffice.Infrastructure\\Repositories\\Users\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:24:00.915Z",
+              "WhenOpened": "2024-03-30T22:24:00.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Entities\\Database\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "BackOffice.Domain\\Entities\\Database\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Entities\\Database\\DatabaseSettings.cs",
+              "RelativeToolTip": "BackOffice.Domain\\Entities\\Database\\DatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:22:36.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUsersService.cs",
-              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\Users\\IUsersService.cs",
-              "RelativeDocumentMoniker": "BackOffice.Domain\\Interfaces\\Users\\IUsersService.cs",
-              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\Users\\IUsersService.cs",
-              "RelativeToolTip": "BackOffice.Domain\\Interfaces\\Users\\IUsersService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "AppServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\Extensions\\AppServicesExtensions.cs",
+              "RelativeDocumentMoniker": "BackOffice\\Extensions\\AppServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\Extensions\\AppServicesExtensions.cs",
+              "RelativeToolTip": "BackOffice\\Extensions\\AppServicesExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:23:36.19Z",
+              "WhenOpened": "2024-03-30T22:20:19.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\Users\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "BackOffice.Domain\\Interfaces\\Users\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\Users\\IUserRepository.cs",
-              "RelativeToolTip": "BackOffice.Domain\\Interfaces\\Users\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Entities\\Tester.cs",
+              "RelativeDocumentMoniker": "BackOffice.Domain\\Entities\\Tester.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Entities\\Tester.cs",
+              "RelativeToolTip": "BackOffice.Domain\\Entities\\Tester.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:23:35.58Z",
+              "WhenOpened": "2024-04-07T17:55:26.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "BackOffice.Application.csproj",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Application\\BackOffice.Application.csproj",
               "RelativeDocumentMoniker": "BackOffice.Application\\BackOffice.Application.csproj",
@@ -264,7 +244,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
+              "Title": "BackOffice.csproj",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\BackOffice.csproj",
+              "RelativeDocumentMoniker": "BackOffice\\BackOffice.csproj",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\BackOffice.csproj",
+              "RelativeToolTip": "BackOffice\\BackOffice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T22:14:03.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BackOffice.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj",
+              "RelativeToolTip": "BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T22:18:23.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\Users\\IUsersService.cs",
+              "RelativeDocumentMoniker": "BackOffice.Domain\\Interfaces\\Users\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\Users\\IUsersService.cs",
+              "RelativeToolTip": "BackOffice.Domain\\Interfaces\\Users\\IUsersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:23:36.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BackOffice.Domain\\Interfaces\\Users\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Domain\\Interfaces\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "BackOffice.Domain\\Interfaces\\Users\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:23:35.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Core\\Interfaces\\Users\\IUserRepository.cs",
               "RelativeDocumentMoniker": "BackOffice.Core\\Interfaces\\Users\\IUserRepository.cs",
@@ -272,12 +300,11 @@
               "RelativeToolTip": "BackOffice.Core\\Interfaces\\Users\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:13:39.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T22:13:39.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "IUsersService.cs",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Core\\Interfaces\\Users\\IUsersService.cs",
               "RelativeDocumentMoniker": "BackOffice.Core\\Interfaces\\Users\\IUsersService.cs",
@@ -285,12 +312,11 @@
               "RelativeToolTip": "BackOffice.Core\\Interfaces\\Users\\IUsersService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:13:37.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T22:13:37.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "BackOffice.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Core\\BackOffice.Domain.csproj",
               "RelativeDocumentMoniker": "BackOffice.Core\\BackOffice.Domain.csproj",
@@ -301,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "BackOffice.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice.Core\\BackOffice.Domain.csproj",
               "RelativeDocumentMoniker": "BackOffice.Core\\BackOffice.Domain.csproj",
@@ -312,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BackOffice\\appsettings.Development.json",
@@ -320,12 +346,11 @@
               "RelativeToolTip": "BackOffice\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-28T21:27:09.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T21:27:09.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\appsettings.json",
               "RelativeDocumentMoniker": "BackOffice\\appsettings.json",
@@ -333,12 +358,11 @@
               "RelativeToolTip": "BackOffice\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-29T02:48:35.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T02:48:35.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\black\\source\\repos\\BackOffice\\BackOffice\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BackOffice\\Properties\\launchSettings.json",
@@ -346,8 +370,7 @@
               "RelativeToolTip": "BackOffice\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAMAAAAAAAAAAIBZwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-28T21:28:28.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T21:28:28.147Z"
             }
           ]
         }

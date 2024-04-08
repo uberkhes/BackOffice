@@ -2,6 +2,8 @@
 using BackOffice.Application.Users;
 using Microsoft.AspNetCore.Mvc;
 using BackOffice.Infrastructure.Repositories.Users;
+using BackOffice.Domain.Interfaces;
+using BackOffice.Application.Test;
 
 namespace BackOffice.Extensions;
 
@@ -9,6 +11,7 @@ public static class AppServicesExtensions
 {
     public static IServiceCollection AddAppServices(this IServiceCollection services)
     {
+        services.AddScoped<ITestManager, TestManager>();
         services.AddScoped<IUsersService, UsersService>();
         services.AddScoped<IUserRepository, UserRepository>();
         services.Configure<ApiBehaviorOptions>(options =>

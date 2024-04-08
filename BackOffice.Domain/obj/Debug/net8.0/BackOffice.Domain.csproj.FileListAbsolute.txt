@@ -10,3 +10,4 @@ C:\Users\black\source\repos\BackOffice\BackOffice.Domain\obj\Debug\net8.0\BackOf
 C:\Users\black\source\repos\BackOffice\BackOffice.Domain\obj\Debug\net8.0\refint\BackOffice.Domain.dll
 C:\Users\black\source\repos\BackOffice\BackOffice.Domain\obj\Debug\net8.0\BackOffice.Domain.pdb
 C:\Users\black\source\repos\BackOffice\BackOffice.Domain\obj\Debug\net8.0\ref\BackOffice.Domain.dll
+C:\Users\black\source\repos\BackOffice\BackOffice.Domain\obj\Debug\net8.0\BackOffice.Domain.sourcelink.json
